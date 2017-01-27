@@ -1,2 +1,3 @@
 # Compile-log-full
 full compile log for the hammer level that failed to run as a map
+hl2.exe started up through the run map button in hammer but crashed without telling me what was the problem before the level could load, help me out with this problem...
